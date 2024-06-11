@@ -1,5 +1,12 @@
 # Changelog
 
+## \[2.0.0-beta.11]
+
+### Dependencies
+
+- Upgraded to `notification@2.0.0-beta.8`
+- Upgraded to `http@2.0.0-beta.10`
+
 ## \[2.0.0-beta.10]
 
 ### Dependencies
